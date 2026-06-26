@@ -9,6 +9,7 @@ HTML | CSS | Javascript | PHP | SQL | Python
 
 ## 📫 Contato
 LinkedIn: https://www.linkedin.com/in/lucas-matheus-cavalcanti-trivelli-542127386/
+
 Email: lucastri206@gmail.com
 
 <!--
